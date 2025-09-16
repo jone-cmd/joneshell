@@ -17,3 +17,6 @@ classifiers = [
 ]
 license = "GPL-3.0-or-later"
 license-files = ["COPYING"]
+
+[tool.hatch.build]
+packages = ["joneshell"]
